@@ -57,7 +57,7 @@ https://sites.google.com/view/sintaxiszero/inicio
 
 ### GitHub
 
-(https://github.com/A4QwB2aTF7U9p/portafolio-sintaxis-Zero-1)
+(https://github.com/A4QwB2aTF7U9p/portafolio-sintaxis-zero-f)
 
 ### Vercel
 
