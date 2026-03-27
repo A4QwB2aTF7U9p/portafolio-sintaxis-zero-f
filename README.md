@@ -62,7 +62,7 @@ https://sites.google.com/view/sintaxiszero/inicio
 
 ### Vercel
 
-(https://portafolio-sintaxis-zero-3-git-main-am4563603-7905s-projects.vercel.app)
+(https://portafolio-sintaxis-zero-2-nln0g1er9-am4563603-7905s-projects.vercel.app/)
 
 ### Blog
 
